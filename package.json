@@ -50,7 +50,7 @@
     "husky": "*",
     "lint-staged": "*",
     "prettier": "*",
-    "react-scripts": "^3.2.0",
+    "react-scripts": "^5.0.1",
     "relay-compiler": "*",
     "relay-compiler-language-typescript": "*",
     "typescript": "*"
